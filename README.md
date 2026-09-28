@@ -35,6 +35,12 @@
 
 **[Посмотреть все боты для пробива →](https://bot-probiva.online/)**
 
+## Подробные руководства
+
+- [Telegram-боты для поиска: справочник шести сервисов](https://github.com/sherlock-report/sherlock-bot-osint-guides/blob/main/telegram-boty-spravochnik.md)
+- [Шерлок, Vector, Funstat и ENIGMA: сравнение по задачам](https://github.com/sherlock-report/sherlock-bot-osint-guides/blob/main/sravnenie-napravleniy-botov.md)
+- [Как проверить Telegram-бота на учебном примере: рабочий протокол](https://github.com/sherlock-report/sherlock-bot-osint-guides/blob/main/protokol-probnogo-poiska.md)
+
 ## Как пользоваться каталогом
 
 1. **Определите задачу.** Например, проверить упоминания своего публичного username.
@@ -79,7 +85,7 @@
 
 ### Где посмотреть подробные инструкции?
 
-В закреплённом репозитории **sherlock-bot-osint-guides** размещены 26 статей: запуск сервиса, выбор инструмента, оценка актуальности, работа с первоисточниками и шаблон отчёта.
+В закреплённом репозитории **sherlock-bot-osint-guides** размещены 29 статей: запуск сервиса, выбор инструмента, оценка актуальности, работа с первоисточниками и шаблон отчёта.
 
 ---
 
