@@ -24,14 +24,14 @@
 
 На сайте представлены шесть Telegram-сервисов. Таблица помогает сориентироваться в карточках; она пересказывает описание каталога, а не результаты независимого тестирования.
 
-| Сервис | Направление по описанию каталога |
-| :--- | :--- |
-| **SHERLOCK BOT** | Поиск по открытым источникам |
-| **Vector BOT** | Поиск по имени, email и автомобилю |
-| **Telelog / Funstat** | Аналитика Telegram |
-| **ENIGMA SEARCH BOT** | Социальные сети и Telegram ID |
-| **VOID BOT** | Актуальные возможности — в меню сервиса |
-| **Dyxless** | Актуальные возможности — в меню сервиса |
+| Бот | Отдельная статья | Запуск |
+| --- | --- | --- |
+| VOID BOT | [Читать о VOID BOT](https://github.com/sherlock-report/sherlock-bot-osint-guides/blob/main/void-bot.md) | [Открыть VOID BOT](https://probiva.bot/go/start_void) |
+| Vector BOT | [Читать о Vector BOT](https://github.com/sherlock-report/sherlock-bot-osint-guides/blob/main/vector-bot.md) | [Открыть Vector BOT](https://probiva.bot/go/start_vector) |
+| SHERLOCK BOT | [Читать о SHERLOCK BOT](https://github.com/sherlock-report/sherlock-bot-osint-guides/blob/main/sherlock-bot-launch.md) | [Открыть SHERLOCK BOT](https://probiva.bot/go) |
+| Telelog / Funstat | [Читать о Telelog / Funstat](https://github.com/sherlock-report/sherlock-bot-osint-guides/blob/main/telelog-funstat.md) | [Открыть Telelog / Funstat](https://probiva.bot/go/start_telelog) |
+| Dyxless | [Читать о Dyxless](https://github.com/sherlock-report/sherlock-bot-osint-guides/blob/main/dyxless-duhless.md) | [Открыть Dyxless](https://probiva.bot/go/start_duhless) |
+| ENIGMA SEARCH BOT | [Читать о ENIGMA SEARCH BOT](https://github.com/sherlock-report/sherlock-bot-osint-guides/blob/main/enigma-search-bot.md) | [Открыть ENIGMA SEARCH BOT](https://probiva.bot/go/start_enigma) |
 
 **[Посмотреть все боты для пробива →](https://bot-probiva.online/)**
 
@@ -63,7 +63,7 @@
 
 ### Где открыть Шерлок бот?
 
-В [каталоге BOT-PROBIVA.ONLINE](https://bot-probiva.online/) выберите карточку SHERLOCK BOT. Ссылка с этой страницы ведёт сначала в каталог.
+Используйте [ссылку запуска SHERLOCK BOT](https://probiva.bot/go) или выберите его карточку в каталоге.
 
 ### Шерлок бот бесплатный?
 
@@ -79,7 +79,7 @@
 
 ### Где посмотреть подробные инструкции?
 
-В закреплённом репозитории **sherlock-bot-osint-guides** размещены 20 статей: запуск сервиса, выбор инструмента, оценка актуальности, работа с первоисточниками и шаблон отчёта.
+В закреплённом репозитории **sherlock-bot-osint-guides** размещены 26 статей: запуск сервиса, выбор инструмента, оценка актуальности, работа с первоисточниками и шаблон отчёта.
 
 ---
 
@@ -91,5 +91,4 @@
 
 </div>
 
-<sub>Описание каталога проверено 27 сентября 2026 года. Тарифы и результаты работы ботов не тестировались. Эта страница не подтверждает официальный статус или юридическую принадлежность перечисленных сервисов.</sub>
-
+<sub>Описание каталога проверено 28 сентября 2026 года. Тарифы и результаты работы ботов не тестировались. Эта страница не подтверждает официальный статус или юридическую принадлежность перечисленных сервисов.</sub>
