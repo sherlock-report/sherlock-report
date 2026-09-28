@@ -35,6 +35,10 @@
 
 **[Посмотреть все боты для пробива →](https://bot-probiva.online/)**
 
+## Сайты проекта
+
+[Все 24 сайта проекта — список и прямые ссылки](https://github.com/sherlock-report/sherlock-bot-osint-guides/blob/main/sites.md).
+
 ## Подробные руководства
 
 - [Telegram-боты для поиска: справочник шести сервисов](https://github.com/sherlock-report/sherlock-bot-osint-guides/blob/main/telegram-boty-spravochnik.md)
